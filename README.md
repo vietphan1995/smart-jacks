@@ -12,4 +12,4 @@
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/smart-jacks-2fe5e832d6ee8010ab46f807a34de794
+https://maianhcorporation.notion.site/smart-jacks-2fe5e832d6ee8010ab46f807a34de794
